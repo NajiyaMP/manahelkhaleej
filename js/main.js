@@ -57,3 +57,16 @@
     
 })(jQuery);
 
+// function changeLanguage(lang) {
+//     if (lang === 'ar') {
+//         document.documentElement.lang = 'ar';
+//         document.documentElement.dir = 'rtl';
+//         // Load Arabic content here
+//     } else {
+//         document.documentElement.lang = 'en';
+//         document.documentElement.dir = 'ltr';
+//         // Load English content here
+//     }
+// }
+
+
